@@ -1,14 +1,6 @@
 # GPT-2-Text-Generation
 
-# GPT-2 Text Generation Example
-
-This Jupyter notebook demonstrates how to use the GPT-2 language model for text generation using PyTorch Transformers.
-
-## Features
-- Load and use pre-trained GPT-2 model
-- Generate text completions for given prompts
-- Examples of single-token and multi-token generation
-- Demonstration of model evaluation mode and inference
+This is a simple project with a .py file and Jupyter notebook to demonstrate how to use the GPT-2 language model for text generation using PyTorch Transformers.
 
 ## Requirements
 - Python 3.x
@@ -28,11 +20,6 @@ The notebook contains examples of:
 2. Converting text to tokens
 3. Making predictions with the model
 4. Generating multiple tokens for longer text completions
-
-## Examples
-- Single token completion for "What mammal has over 40,000 muscles in one body part?"
-- Multi-token generation for "the oldest university in Illinois is"
-- Historical fact completion for "the first president of the USA was President"
 
 ## Notes
 - The model generates text based on statistical probability of next tokens
